@@ -1,0 +1,334 @@
+{
+  "v": 2,
+  "t": "ADV Skull",
+  "start": 2,
+  "chapters": [
+    {
+      "v": 1,
+      "m": "skull",
+      "n": 1478,
+      "f": "1az9lb4",
+      "b": "AAAAAggAAAAAAMqfGgAIwH8AAAgAAAAAgPKnBgAC8A8QBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Skull Exterior",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": false,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.17454,
+        1.60285,
+        0.41189,
+        -0.00066,
+        1.6071,
+        0.00714
+      ],
+      "labels": []
+    },
+    {
+      "v": 1,
+      "m": "skull",
+      "n": 1478,
+      "f": "1az9lb4",
+      "b": "AAAAAgAAAAAAAMqfCgAIwH8AAAgAAAAAgPKnAgAC8A8QBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Skull Interior",
+      "lm": "shown",
+      "x": true,
+      "te": true,
+      "ca": false,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": false,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.34323,
+        1.76563,
+        0.21557,
+        -0.00908,
+        1.55363,
+        0.0024
+      ],
+      "labels": [
+        {
+          "s": 233,
+          "qi": "q-dac27149-08b6-42b9-af0f-b6b739ddc03c",
+          "p": [
+            -272.36101,
+            15871.36426,
+            11.73771
+          ],
+          "t": "Internal auditory meatus",
+          "dx": 25,
+          "dy": -51.9
+        },
+        {
+          "s": 155,
+          "qi": "q-d6490b08-2dd9-42b7-b3d7-557bc96aded9",
+          "p": [
+            -160.13667,
+            15629.80955,
+            -282.14612
+          ],
+          "t": "Foramen magnum",
+          "dx": 25.3,
+          "dy": -45.8
+        }
+      ]
+    },
+    {
+      "v": 1,
+      "m": "skull",
+      "n": 1478,
+      "f": "1az9lb4",
+      "b": "AAAAAggAAAAAAMqfGgAIwH8AAAgAAAAAgPKnBgAC8A8QBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Superficial Landmarks",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": false,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": false,
+      "cm": true,
+      "ey": false,
+      "ci": false,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.27615,
+        1.56128,
+        0.33321,
+        -0.01287,
+        1.5853,
+        0.00714
+      ],
+      "labels": [
+        {
+          "s": 100,
+          "qi": "q-9cb5ea1b-541b-4c7b-adf6-8482f8e41e45",
+          "p": [
+            492.51192,
+            16826.55689,
+            369.87593
+          ],
+          "t": "Coronal Suture",
+          "dx": 37.4,
+          "dy": -125.9
+        },
+        {
+          "s": 35,
+          "qi": "q-e5ee4226-d08e-4b7b-a863-caa8ae493803",
+          "p": [
+            278.46388,
+            16216.53425,
+            895.90277
+          ],
+          "t": "Supraorbital foramen",
+          "dx": 20.7,
+          "dy": -85.4
+        },
+        {
+          "s": 260,
+          "qi": "q-80b49eb2-b06e-43f3-aadf-4309a2209602",
+          "p": [
+            -162.9588,
+            15987.06444,
+            371.21117
+          ],
+          "t": "Optic canal",
+          "dx": -119.5,
+          "dy": -48.8
+        },
+        {
+          "s": 233,
+          "qi": "q-b6d8d1a4-b109-476a-b8d8-c9625825c5e7",
+          "p": [
+            -644.71693,
+            15813.95227,
+            412.78552
+          ],
+          "t": "Zygomatic arch",
+          "dx": -183.3,
+          "dy": -35.2
+        },
+        {
+          "s": 134,
+          "qi": "q-a3a01b71-5158-4efa-b14b-def798e6dfff",
+          "p": [
+            437.52517,
+            15446.04164,
+            409.90378
+          ],
+          "t": "Ramus",
+          "dx": 30.3,
+          "dy": -35.7
+        },
+        {
+          "s": 134,
+          "qi": "q-e3da062e-bce1-4f8d-b882-7b06b519b38e",
+          "p": [
+            227.92559,
+            15156.03061,
+            781.57965
+          ],
+          "t": "Mental foramen",
+          "dx": 47,
+          "dy": -37.2
+        },
+        {
+          "s": 134,
+          "qi": "q-9abf2664-a06b-4ba9-afa6-e68513dd7408",
+          "p": [
+            -10.57483,
+            15103.26205,
+            925.41621
+          ],
+          "t": "Mental protuberance",
+          "dx": -166.3,
+          "dy": -31.2
+        },
+        {
+          "s": 35,
+          "qi": "q-a2ea6ed0-cd1f-4dd1-8cd5-d3a2c3328339",
+          "p": [
+            -334.86373,
+            16183.31182,
+            622.65732
+          ],
+          "t": "Orbit (eye socket)",
+          "dx": -222.5,
+          "dy": -59.8
+        },
+        {
+          "s": 233,
+          "qi": "q-ee13e1ff-7836-4a82-b604-af6f6a47297a",
+          "p": [
+            -426.07579,
+            15564.67556,
+            82.26078
+          ],
+          "t": "Styloid process",
+          "dx": -99.2,
+          "dy": 27.9
+        },
+        {
+          "s": 233,
+          "qi": "q-12c0d806-cc84-4e30-acd6-0c40a71ceccd",
+          "p": [
+            -598.20531,
+            15696.09801,
+            -79.04778
+          ],
+          "t": "Mastoid process",
+          "dx": -151.6,
+          "dy": 76.2
+        },
+        {
+          "s": 115,
+          "qi": "q-d9dec649-f314-4b92-bb87-f56d69c056f9",
+          "p": [
+            485.91267,
+            15848.72225,
+            33.59299
+          ],
+          "t": "External auditory meatus",
+          "dx": 28.5,
+          "dy": -16.1
+        },
+        {
+          "s": 100,
+          "qi": "q-8cc2ab6d-d000-48a5-83da-19a7a182d5ba",
+          "p": [
+            -1.28378,
+            16946.60734,
+            -643.66338
+          ],
+          "t": "Sagittal suture",
+          "dx": 23.7,
+          "dy": -69.8
+        },
+        {
+          "s": 155,
+          "qi": "q-c25e51b8-65b2-428f-ad52-215c00026caa",
+          "p": [
+            -299.53821,
+            16384.46931,
+            -942.51634
+          ],
+          "t": "Lambdoidal suture",
+          "dx": 24,
+          "dy": -31
+        }
+      ]
+    }
+  ],
+  "sp": {
+    "ss": true,
+    "st": true,
+    "sn": true,
+    "sl": true,
+    "ex": true
+  },
+  "practical": {
+    "on": true,
+    "count": 15,
+    "off": [
+      "s:204",
+      "s:205",
+      "s:206",
+      "s:207",
+      "s:208",
+      "s:209",
+      "s:210",
+      "s:244",
+      "s:245",
+      "s:246",
+      "s:247",
+      "s:248",
+      "s:249",
+      "s:250",
+      "s:86",
+      "s:87",
+      "s:88",
+      "s:89",
+      "s:90",
+      "s:91",
+      "s:92",
+      "s:126",
+      "s:127",
+      "s:128",
+      "s:129",
+      "s:130",
+      "s:131",
+      "s:132"
+    ]
+  }
+}
