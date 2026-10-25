@@ -1,0 +1,55 @@
+{
+  "v": 2,
+  "t": "Vertebra, Ribs, and Pelvis",
+  "start": 0,
+  "chapters": [
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1478,
+      "f": "1az9lb4",
+      "b": "BwCA-____8NkJsqfHuQ70f8AAAwAADCZifKnB_lO9H__DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AM",
+      "t": "Axial Skeleton",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        -0.00065,
+        1.2877,
+        1.65438,
+        -0.00065,
+        1.2877,
+        0.0186
+      ],
+      "labels": []
+    }
+  ],
+  "sp": {
+    "ss": true,
+    "st": true,
+    "sn": true,
+    "sl": true,
+    "ex": true
+  },
+  "practical": {
+    "on": false,
+    "count": 15,
+    "off": []
+  }
+}
