@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Skull",
-  "start": 2,
+  "start": 0,
   "chapters": [
     {
       "v": 1,
@@ -23,6 +23,10 @@
       "nv": false,
       "ur": false,
       "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": false,
       "ro": 1,
       "hd": false,
       "cam": [
@@ -33,7 +37,13 @@
         1.6071,
         0.00714
       ],
-      "labels": []
+      "labels": [],
+      "pc": [
+        [
+          35,
+          "#e45d58"
+        ]
+      ]
     },
     {
       "v": 1,
