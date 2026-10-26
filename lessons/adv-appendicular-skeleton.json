@@ -1,0 +1,465 @@
+{
+  "v": 2,
+  "t": "ADV Appendicular Skeleton",
+  "start": 3,
+  "chapters": [
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1478,
+      "f": "1az9lb4",
+      "b": "AIBNAAAAAAAAAAAAAAAAAAAANgAAmwYiUgAI8AIQCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Upper Limb",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": false,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        -0.12092,
+        0.99318,
+        1.64731,
+        -0.12707,
+        0.99548,
+        0.01587
+      ],
+      "labels": []
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1478,
+      "f": "1az9lb4",
+      "b": "AIBNAAAAAAAAAAAAAAAAAAAANgAAmwIiEgAIUAIQAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Carpals",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": false,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        -0.26721,
+        0.91386,
+        0.25688,
+        -0.25454,
+        0.84117,
+        0.021
+      ],
+      "labels": [
+        {
+          "s": 222,
+          "qi": "q-17abb358-bbdc-486e-b044-0fe65e6f3a40",
+          "p": [
+            -2662.71773,
+            8847.20544,
+            448.15164
+          ],
+          "t": "Scaphoid",
+          "dx": 4.8,
+          "dy": -145.6,
+          "d": "Straight",
+          "ln": [
+            0.55767,
+            0.6458,
+            0.52148
+          ]
+        },
+        {
+          "s": 211,
+          "qi": "q-0af3c703-1a86-49e6-8d55-efaf3a96b09d",
+          "p": [
+            -2460.35492,
+            8831.17618,
+            472.8263
+          ],
+          "t": "Lunate",
+          "dx": 27.5,
+          "dy": -103.6,
+          "d": "Line",
+          "ln": [
+            0.25541,
+            0.07834,
+            0.96365
+          ]
+        },
+        {
+          "s": 220,
+          "qi": "q-f74e873e-d954-448b-9419-4b6ca64d17f5",
+          "p": [
+            -2360.02053,
+            8761.56204,
+            571.62878
+          ],
+          "t": "Pisiform",
+          "dx": 48.5,
+          "dy": -14.4,
+          "d": "Pinky",
+          "ln": [
+            0.42783,
+            0.44462,
+            0.78694
+          ],
+          "fv": [
+            0.53758,
+            0.17544,
+            0.82476
+          ],
+          "fd": 0.23893,
+          "ft": [
+            -0.0499,
+            -0.06371,
+            -0.03046
+          ]
+        },
+        {
+          "s": 196,
+          "qi": "q-c7dc6a2c-c5f0-43c8-8a4c-284f956f6fe3",
+          "p": [
+            -2469.3985,
+            8706.47945,
+            452.64579
+          ],
+          "t": "Hamate",
+          "dx": 83.5,
+          "dy": -92.3,
+          "d": "Here",
+          "ln": [
+            -0.39466,
+            0.39716,
+            0.82856
+          ]
+        },
+        {
+          "s": 177,
+          "qi": "q-98e8570d-1367-44ed-b61e-82bbcf53a31b",
+          "p": [
+            -2582.95541,
+            8713.97042,
+            476.99911
+          ],
+          "t": "Capitate",
+          "dx": -6.6,
+          "dy": -152.6,
+          "d": "Comes",
+          "ln": [
+            -0.02872,
+            0.20312,
+            0.97873
+          ],
+          "fv": [
+            -0.14504,
+            -0.71188,
+            0.68716
+          ],
+          "fd": 0.24537,
+          "ft": [
+            -0.02821,
+            -0.05807,
+            -0.02093
+          ]
+        },
+        {
+          "s": 241,
+          "qi": "q-52b6ac41-64f1-4a76-80f7-0cbd2d79c933",
+          "p": [
+            -2644.4361,
+            8703.49614,
+            479.87281
+          ],
+          "t": "Trapezoid",
+          "dx": -71.4,
+          "dy": -169.3,
+          "d": "The",
+          "ln": [
+            0.46972,
+            0.42946,
+            0.77132
+          ],
+          "fv": [
+            0.56381,
+            0.19821,
+            0.80177
+          ],
+          "fd": 0.16149,
+          "ft": [
+            -0.02948,
+            -0.00868,
+            -0.02639
+          ]
+        },
+        {
+          "s": 240,
+          "qi": "q-28909686-6a41-4217-80ec-b6648db3bfe2",
+          "p": [
+            -2707.65662,
+            8797.29904,
+            535.35466
+          ],
+          "t": "Trapezium",
+          "dx": -126.5,
+          "dy": -115,
+          "d": "Thumb",
+          "ln": [
+            -0.42134,
+            0.40078,
+            0.81354
+          ]
+        }
+      ]
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1478,
+      "f": "1az9lb4",
+      "b": "AGAyAAAAAAAAAAAAAAAAAAAAyQLAZMlEJAVACAShAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Lower Limb",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": false,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.20322,
+        0.62029,
+        2.13037,
+        -0.04559,
+        0.39904,
+        0.02055
+      ],
+      "labels": []
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1478,
+      "f": "1az9lb4",
+      "b": "AGAyAAAAAAAAAAAAAAAAAAAAyQLAZAlEBAVAAAQhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Tarsals",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": false,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        -0.46547,
+        0.2444,
+        0.19537,
+        -0.10225,
+        0.03588,
+        0.05258
+      ],
+      "labels": [
+        {
+          "s": 214,
+          "qi": "q-2ad233d5-cdd8-4f62-9f80-b0c929153e85",
+          "p": [
+            -864.07252,
+            625.46445,
+            511.40934
+          ],
+          "t": "Medial cuneiform",
+          "dx": 17,
+          "dy": -82.6,
+          "ln": [
+            0.09559,
+            0.92189,
+            0.37547
+          ]
+        },
+        {
+          "s": 200,
+          "qi": "q-bf3e7406-dda5-4b85-aead-95ca103d9135",
+          "p": [
+            -937.45171,
+            640.35154,
+            419.0967
+          ],
+          "t": "Intermediate cuneiform",
+          "dx": 43.3,
+          "dy": -153.5,
+          "ln": [
+            -0.33632,
+            0.91175,
+            0.2358
+          ]
+        },
+        {
+          "s": 202,
+          "qi": "q-cfc61507-a2fd-4f0c-adb1-047abf4c6d38",
+          "p": [
+            -1044.93182,
+            574.30621,
+            335.81258
+          ],
+          "t": "Lateral cuneiform",
+          "dx": -9.3,
+          "dy": -104.5,
+          "ln": [
+            -0.68997,
+            0.71079,
+            -0.13684
+          ]
+        },
+        {
+          "s": 179,
+          "qi": "q-9f9f2604-b4bd-4bd4-80b9-0abad2002b8c",
+          "p": [
+            -1085.23574,
+            468.42124,
+            204.32378
+          ],
+          "t": "Cuboid",
+          "dx": -54.8,
+          "dy": -80.9,
+          "ln": [
+            -0.79128,
+            0.54821,
+            -0.27082
+          ],
+          "fv": [
+            -0.95202,
+            0.2443,
+            -0.18432
+          ],
+          "fd": 0.43205,
+          "ft": [
+            -0.00143,
+            -0.02166,
+            0.02811
+          ]
+        },
+        {
+          "s": 176,
+          "qi": "q-ca1e7972-1cad-49e9-92ef-a380c8b5be1c",
+          "p": [
+            -738.54611,
+            305.05576,
+            -453.25141
+          ],
+          "t": "Calcaneus",
+          "dx": -128.3,
+          "dy": -62.5,
+          "ln": [
+            -0.82486,
+            0.02968,
+            -0.56456
+          ]
+        },
+        {
+          "s": 232,
+          "qi": "q-d052a451-b438-4ae9-b251-fc9739ed3f18",
+          "p": [
+            -774.35859,
+            787.2703,
+            -12.74136
+          ],
+          "t": "Talus",
+          "dx": 5.6,
+          "dy": -122.9,
+          "ln": [
+            -0.18514,
+            0.9335,
+            0.30708
+          ]
+        },
+        {
+          "s": 153,
+          "qi": "q-a44569b9-e796-4fa4-bcbf-2f0767be6373",
+          "p": [
+            -685.89379,
+            639.40183,
+            327.71605
+          ],
+          "t": "Navicular",
+          "dx": 36.3,
+          "dy": -118.5,
+          "ln": [
+            0.54931,
+            0.65656,
+            0.5169
+          ],
+          "fv": [
+            0.91423,
+            0.20276,
+            0.35082
+          ],
+          "fd": 0.40026,
+          "ft": [
+            -0.04136,
+            -0.03876,
+            0.01577
+          ]
+        }
+      ]
+    }
+  ],
+  "sp": {
+    "ss": true,
+    "st": true,
+    "sn": true,
+    "sl": true,
+    "ex": true
+  },
+  "practical": {
+    "on": false,
+    "count": 15,
+    "off": []
+  }
+}
