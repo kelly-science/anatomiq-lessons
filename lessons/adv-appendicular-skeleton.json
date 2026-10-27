@@ -66,9 +66,9 @@
       "ro": 1,
       "hd": false,
       "cam": [
-        -0.09843,
-        1.24784,
-        0.6476,
+        -0.07691,
+        1.2114,
+        0.64385,
         -0.1926,
         1.23444,
         -0.00219
@@ -747,11 +747,12 @@
     }
   ],
   "sp": {
-    "ss": true,
-    "st": true,
+    "ss": false,
+    "st": false,
     "sn": true,
     "sl": true,
-    "ex": true
+    "ex": true,
+    "ot": false
   },
   "practical": {
     "on": false,
