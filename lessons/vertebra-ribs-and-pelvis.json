@@ -670,7 +670,7 @@
     "sl": true,
     "ll": true,
     "ex": true,
-    "ot": true
+    "ot": false
   },
   "practical": {
     "on": true,
