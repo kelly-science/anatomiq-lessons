@@ -47,7 +47,7 @@
       "b": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "t": "Humerus Bone Markings",
       "lm": "shown",
-      "x": false,
+      "x": true,
       "te": true,
       "ca": true,
       "sb": true,
@@ -748,7 +748,7 @@
   ],
   "sp": {
     "ss": true,
-    "st": true,
+    "st": false,
     "sn": true,
     "sl": true,
     "ex": true
