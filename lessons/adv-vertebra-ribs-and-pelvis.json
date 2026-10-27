@@ -1,0 +1,743 @@
+{
+  "v": 2,
+  "t": "ADV Vertebra, Ribs, and Pelvis",
+  "start": 5,
+  "chapters": [
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "BwCA-____8NkJsqfHuQ70f8AAAwAADCZifKnB_lO9H__DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AM",
+      "t": "Axial Skeleton",
+      "lm": "shown",
+      "x": true,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.02686,
+        1.34928,
+        1.5639,
+        -0.01363,
+        1.22964,
+        -0.0773
+      ],
+      "labels": [],
+      "pc": [
+        [
+          180,
+          "#f3ab46"
+        ],
+        [
+          181,
+          "#e45d58"
+        ],
+        [
+          187,
+          "#69bf93"
+        ],
+        [
+          191,
+          "#69bf93"
+        ],
+        [
+          195,
+          "#69bf93"
+        ],
+        [
+          216,
+          "#f3ab46"
+        ],
+        [
+          227,
+          "#69bf93"
+        ],
+        [
+          229,
+          "#69bf93"
+        ],
+        [
+          231,
+          "#69bf93"
+        ],
+        [
+          234,
+          "#f3ab46"
+        ],
+        [
+          238,
+          "#69bf93"
+        ],
+        [
+          242,
+          "#e45d58"
+        ]
+      ]
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Vertebra Bone Markings",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.24928,
+        1.42851,
+        0.00203,
+        0.00085,
+        1.3146,
+        -0.04604
+      ],
+      "labels": [
+        {
+          "s": 259,
+          "qi": "q-5d7ec531-2cf6-4001-9933-5624735dc94c",
+          "p": [
+            -48.77951,
+            13230.13195,
+            -437.77167
+          ],
+          "t": "Vertebral foramen",
+          "dx": -8.4,
+          "dy": -179.8,
+          "d": "Hole in the center of the vertebra.",
+          "ln": [
+            0.70419,
+            0.10632,
+            -0.702
+          ],
+          "fv": [
+            0.35815,
+            0.92454,
+            0.13023
+          ],
+          "fd": 0.18399,
+          "ft": [
+            0.00426,
+            -0.00576,
+            -0.00241
+          ]
+        },
+        {
+          "s": 259,
+          "qi": "q-fe7ce705-0598-4bd6-b27d-301d2698fb45",
+          "p": [
+            -12.74581,
+            13341.23484,
+            -259.47547
+          ],
+          "t": "Body",
+          "dx": -22.4,
+          "dy": -49.4,
+          "ln": [
+            -0.00419,
+            0.99666,
+            0.0816
+          ],
+          "fv": [
+            0.67399,
+            0.70814,
+            0.21042
+          ],
+          "fd": 0.16544,
+          "ft": [
+            0.00065,
+            -0.01687,
+            -0.02024
+          ]
+        },
+        {
+          "s": 259,
+          "qi": "q-df8c77e8-a3e1-4130-88bc-21c5d0f0558f",
+          "p": [
+            115.17541,
+            13361.41519,
+            -448.64853
+          ],
+          "t": "Pedicle",
+          "dx": -28.5,
+          "dy": -53.8,
+          "d": "Bone arch connecting the posterior and anterior of the vertebra.",
+          "ln": [
+            0.77545,
+            0.58208,
+            0.24467
+          ],
+          "fv": [
+            0.49289,
+            0.86987,
+            -0.01945
+          ],
+          "fd": 0.16003,
+          "ft": [
+            -0.01214,
+            -0.01889,
+            -0.00133
+          ]
+        },
+        {
+          "s": 259,
+          "qi": "q-f76e26fa-f250-4c92-8678-aeaefc770110",
+          "p": [
+            81.91557,
+            13271.17995,
+            -616.88614
+          ],
+          "t": "Lamina",
+          "dx": 8.3,
+          "dy": -61.6,
+          "d": "Bone bridge that connects the spinous process to the transverse process.",
+          "ln": [
+            0.38459,
+            0.25423,
+            -0.88739
+          ],
+          "fv": [
+            0.51667,
+            0.6125,
+            -0.59824
+          ],
+          "fd": 0.16251,
+          "ft": [
+            -0.00881,
+            -0.00987,
+            0.0155
+          ]
+        },
+        {
+          "s": 259,
+          "qi": "q-b41efbb0-e342-4771-8cdf-450cf98296ea",
+          "p": [
+            -326.82615,
+            13354.94364,
+            -611.97
+          ],
+          "t": "Transverse process",
+          "dx": -2.3,
+          "dy": -66,
+          "ln": [
+            -0.77877,
+            -0.14204,
+            0.61102
+          ],
+          "fv": [
+            -0.70618,
+            -0.04365,
+            0.70669
+          ],
+          "fd": 0.15294,
+          "ft": [
+            0.03206,
+            -0.01824,
+            0.01501
+          ]
+        },
+        {
+          "s": 259,
+          "qi": "q-8f2aec2c-fe59-4713-8406-c5c5f20b8daf",
+          "p": [
+            16.21749,
+            13098.5805,
+            -713.37819
+          ],
+          "t": "Spinous process",
+          "dx": 21.4,
+          "dy": -11.8,
+          "ln": [
+            0.90466,
+            0.07381,
+            -0.41969
+          ],
+          "fv": [
+            0.8412,
+            0.52073,
+            -0.14566
+          ],
+          "fd": 0.16481,
+          "ft": [
+            -0.00224,
+            0.00739,
+            0.02515
+          ]
+        },
+        {
+          "s": 259,
+          "qi": "q-ab53aa15-101a-47d3-8daa-806ec770cf11",
+          "p": [
+            -126.40556,
+            13426.84142,
+            -529.35737
+          ],
+          "t": "Articular process",
+          "dx": 24.9,
+          "dy": -52.9,
+          "d": "Where two vertebra articulate.",
+          "ln": [
+            -0.41824,
+            0.26184,
+            -0.86978
+          ]
+        }
+      ]
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "AwAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Cervical Vertebra",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.23971,
+        1.48966,
+        0.02414,
+        -0.00634,
+        1.49352,
+        -0.00153
+      ],
+      "labels": [
+        {
+          "s": 0,
+          "qi": "q-679093f4-d693-499a-b5c5-bfc9ec3352e2",
+          "p": [
+            4.80746,
+            15489.88242,
+            -352.06512
+          ],
+          "t": "Atlas",
+          "dx": 67.8,
+          "dy": -61.6,
+          "d": "C1",
+          "ln": [
+            0.42047,
+            0.71896,
+            -0.55344
+          ]
+        },
+        {
+          "s": 1,
+          "qi": "q-6ef5e046-0e22-4389-8971-dd5d6c11f196",
+          "p": [
+            13.2866,
+            15225.78565,
+            -364.70489
+          ],
+          "t": "Axis",
+          "dx": 99.3,
+          "dy": -34.5,
+          "d": "C2",
+          "ln": [
+            0.92577,
+            0.34944,
+            -0.14437
+          ]
+        },
+        {
+          "s": 1,
+          "qi": "q-a44968a1-3c0c-4ac9-94ef-64d6c7b41595",
+          "p": [
+            18.27443,
+            15540.911,
+            -64.04948
+          ],
+          "t": "Dens",
+          "dx": -118.6,
+          "dy": -108.9,
+          "ln": [
+            0.79947,
+            0.39895,
+            -0.4491
+          ],
+          "fv": [
+            0.70153,
+            0.60733,
+            -0.37284
+          ],
+          "fd": 0.19957,
+          "ft": [
+            -0.00772,
+            -0.06111,
+            0.00406
+          ]
+        }
+      ],
+      "pc": [
+        [
+          0,
+          "#e45d58"
+        ],
+        [
+          1,
+          "#69bf93"
+        ]
+      ]
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "AACAoQQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAEAqAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Thoracic Vertebra",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.42699,
+        1.27635,
+        0.43022,
+        0.00359,
+        1.26522,
+        -0.03155
+      ],
+      "labels": []
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "AAAAUAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Lumbar Vertebra",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.34887,
+        1.0353,
+        -0.01769,
+        0.00432,
+        1.03497,
+        -0.0133
+      ],
+      "labels": []
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "AAAAUAIAAAAAgAAAAAAAAAAAAAAAAAAAIAAAAAAAADCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Pelvis Bone Markings",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        -0.01312,
+        1.00897,
+        0.60381,
+        -0.00311,
+        0.95289,
+        -0.01344
+      ],
+      "labels": [
+        {
+          "s": 197,
+          "qi": "q-e2e79ecc-26a2-45d0-a830-09f312125f72",
+          "p": [
+            -646.23709,
+            9046.19165,
+            -33.48892
+          ],
+          "t": "Acetabulum",
+          "dx": 3.9,
+          "dy": -39.8,
+          "ln": [
+            -0.4252,
+            -0.84598,
+            0.32175
+          ]
+        },
+        {
+          "s": 197,
+          "qi": "q-533031cc-f0f7-4f65-965d-5f94150b3439",
+          "p": [
+            -595.58303,
+            9784.36476,
+            -230.11129
+          ],
+          "t": "Sacroiliac joint",
+          "dx": -39,
+          "dy": -66,
+          "ln": [
+            0.59994,
+            0.44342,
+            0.66592
+          ]
+        },
+        {
+          "s": 197,
+          "qi": "q-c0e3eac8-77ec-4edf-8011-37ddaed71bd9",
+          "p": [
+            -617.4056,
+            9394.30219,
+            -257.87715
+          ],
+          "t": "Greater sciatic notch",
+          "dx": 11.8,
+          "dy": -26.6,
+          "ln": [
+            0.22989,
+            -0.35245,
+            -0.90715
+          ]
+        },
+        {
+          "s": 197,
+          "qi": "q-a340bf4a-f959-49d3-b27a-c735b1c09c5b",
+          "p": [
+            -510.22233,
+            8887.79241,
+            -399.99641
+          ],
+          "t": "Lesser sciatic notch",
+          "dx": 9.1,
+          "dy": -11.8,
+          "ln": [
+            0.43487,
+            -0.61395,
+            -0.65875
+          ]
+        },
+        {
+          "s": 79,
+          "qi": "q-c5d46270-78e2-42e1-9ecb-4ac0ce88e519",
+          "p": [
+            470.53834,
+            8978.82218,
+            -446.63975
+          ],
+          "t": "Ischial spine",
+          "dx": -12.8,
+          "dy": -45.9,
+          "ln": [
+            0.1749,
+            0.19867,
+            -0.96433
+          ]
+        },
+        {
+          "s": 79,
+          "qi": "q-9e6832ea-a3ad-443c-aa51-ec94aa7d4821",
+          "p": [
+            360.44909,
+            8762.07463,
+            256.02474
+          ],
+          "t": "Obturator foramen",
+          "dx": 10.9,
+          "dy": -17,
+          "d": "Large hole in the ischium and pubis.",
+          "ln": [
+            0.43718,
+            -0.63925,
+            -0.63264
+          ]
+        },
+        {
+          "s": 79,
+          "qi": "q-7334526b-3bdf-4689-a699-ba2eaebb71ee",
+          "p": [
+            45.4765,
+            8719.52879,
+            426.10229
+          ],
+          "t": "Pubic symphysis",
+          "dx": 14.4,
+          "dy": -43.3,
+          "ln": [
+            -0.96013,
+            -0.21828,
+            0.17466
+          ]
+        },
+        {
+          "s": 197,
+          "qi": "q-8de53413-2810-4a24-a7fc-a27c037c4b36",
+          "p": [
+            -80.6185,
+            8537.48567,
+            273.84964
+          ],
+          "t": "Sub pubic angle",
+          "dx": 12.7,
+          "dy": 34.7,
+          "ln": [
+            0.78587,
+            -0.5691,
+            0.24195
+          ],
+          "g": [
+            {
+              "s": 79,
+              "p": [
+                111.8215,
+                8518.48292,
+                276.42299
+              ],
+              "ln": [
+                -0.47261,
+                -0.7722,
+                0.42468
+              ]
+            }
+          ],
+          "gn": 1
+        }
+      ],
+      "fa": [
+        28,
+        30,
+        33,
+        253,
+        263
+      ]
+    }
+  ],
+  "sp": {
+    "ss": false,
+    "st": false,
+    "sn": true,
+    "sl": true,
+    "ll": true,
+    "ex": true,
+    "ot": false
+  },
+  "practical": {
+    "on": true,
+    "count": 15,
+    "off": [
+      "s:23",
+      "s:24",
+      "s:27",
+      "s:28",
+      "s:29",
+      "s:30",
+      "s:31",
+      "s:32",
+      "s:33",
+      "s:34",
+      "s:154",
+      "s:253",
+      "s:254",
+      "s:256",
+      "s:257",
+      "s:258",
+      "s:259",
+      "s:261",
+      "s:262",
+      "s:263",
+      "s:264",
+      "s:265"
+    ],
+    "chapters": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  }
+}
