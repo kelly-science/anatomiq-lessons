@@ -751,6 +751,7 @@
     "st": false,
     "sn": true,
     "sl": true,
+    "ll": true,
     "ex": true,
     "ot": false
   },
