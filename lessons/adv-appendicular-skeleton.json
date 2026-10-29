@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Appendicular Skeleton",
-  "start": 4,
+  "start": 0,
   "chapters": [
     {
       "v": 1,
@@ -103,9 +103,10 @@
             8844.29173,
             310.47621
           ],
-          "t": "Styloid Process of Ulna",
-          "dx": -16.3,
-          "dy": -54.6,
+          "t": "Styloid Process",
+          "dx": 14.3,
+          "dy": -47.6,
+          "d": "Ulna",
           "ln": [
             -0.46279,
             -0.68208,
@@ -131,9 +132,10 @@
             8856.97342,
             382.95315
           ],
-          "t": "Styloid Process of Radius",
-          "dx": 37.1,
-          "dy": -30.1,
+          "t": "Styloid Process",
+          "dx": -8.4,
+          "dy": 16.3,
+          "d": "Radius",
           "ln": [
             -0.88743,
             -0.42279,
