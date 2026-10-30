@@ -30,12 +30,12 @@
       "ro": 1,
       "hd": false,
       "cam": [
-        0.16819,
-        1.57629,
-        0.4144,
-        -0.00701,
-        1.58054,
-        0.00965
+        0.16931,
+        1.56717,
+        0.41382,
+        -0.00589,
+        1.57142,
+        0.00907
       ],
       "labels": []
     },
@@ -66,12 +66,12 @@
       "ro": 1,
       "hd": false,
       "cam": [
-        0.16939,
-        1.81126,
-        -0.16042,
-        -0.01067,
-        1.55217,
-        -0.00252
+        0.22523,
+        1.73726,
+        -0.05949,
+        -0.01476,
+        1.56038,
+        0.00385
       ],
       "labels": [
         {
@@ -130,7 +130,7 @@
       "b": "AAAAAggAAAAAAMifGgAIwH8AAAgAAAAAAPKnBgAC8A8QBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "t": "Superficial Landmarks",
       "lm": "shown",
-      "x": false,
+      "x": true,
       "te": true,
       "ca": false,
       "sb": true,
@@ -149,12 +149,12 @@
       "ro": 1,
       "hd": false,
       "cam": [
-        0.27598,
-        1.5609,
-        0.33328,
-        -0.01304,
-        1.58492,
-        0.00721
+        0.27874,
+        1.54768,
+        0.33903,
+        -0.01547,
+        1.57298,
+        0.00846
       ],
       "labels": [
         {
@@ -488,10 +488,30 @@
       "s:129",
       "s:130",
       "s:131",
-      "s:132"
+      "s:132",
+      "s:25",
+      "s:35",
+      "s:83",
+      "s:201",
+      "s:95",
+      "s:213",
+      "s:97",
+      "s:215",
+      "s:99",
+      "s:217",
+      "s:100",
+      "s:218",
+      "s:115",
+      "s:233",
+      "s:133",
+      "s:251",
+      "s:134",
+      "s:155",
+      "s:260",
+      "s:266"
     ],
     "chapters": null,
-    "markerStyle": "yellow-dot"
+    "markerStyle": "question-label"
   },
   "guided": {
     "free": true,
