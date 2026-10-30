@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Skull",
-  "start": 0,
+  "start": 2,
   "chapters": [
     {
       "v": 1,
@@ -494,7 +494,7 @@
     "markerStyle": "yellow-dot"
   },
   "guided": {
-    "free": false,
+    "free": true,
     "chapters": [
       [],
       [],
