@@ -514,7 +514,7 @@
     "markerStyle": "question-label"
   },
   "guided": {
-    "free": true,
+    "free": false,
     "chapters": [
       [
         {
