@@ -542,6 +542,21 @@
           "targetStructure": 260,
           "targetLabel": null,
           "targetGroup": null
+        },
+        {
+          "id": "act-mvy99cah-hqgeier3",
+          "type": "mc",
+          "title": "Check your understanding",
+          "prompt": "What does the sphenoid look like to you?",
+          "hint": "",
+          "feedback": "",
+          "options": [
+            "a butteryfly",
+            "a pumpkin",
+            "a rainbox",
+            "a lollipop"
+          ],
+          "correct": 0
         }
       ],
       [],
