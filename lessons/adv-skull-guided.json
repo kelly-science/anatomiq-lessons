@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Skull",
-  "start": 1,
+  "start": 0,
   "chapters": [
     {
       "v": 1,
@@ -1283,7 +1283,7 @@
           "id": "act-mvy8ckm9-6rsdwycm",
           "type": "dissect",
           "title": "Dissect to view deep cranial bones.",
-          "prompt": "Use the Dissect tool to remove the bones listed below.",
+          "prompt": "Use the Dissect tool to remove the bones listed below. Be careful with your dissection - you only get 3 mistakes before the lesson resets!",
           "hint": "",
           "feedback": "",
           "rotationDegrees": 0,
@@ -1430,7 +1430,7 @@
             }
           ],
           "brushMm": 8,
-          "attemptLimit": 0
+          "attemptLimit": 4
         },
         {
           "id": "act-mvyh34y1-vixjspe9",
@@ -1891,7 +1891,7 @@
             }
           ],
           "brushMm": 8,
-          "attemptLimit": 0
+          "attemptLimit": 4
         },
         {
           "id": "act-mvyh50bz-aecjatz2",
@@ -2282,7 +2282,7 @@
             }
           ],
           "brushMm": 8,
-          "attemptLimit": 0
+          "attemptLimit": 4
         },
         {
           "id": "act-mvyhmsoe-e96jl15a",
