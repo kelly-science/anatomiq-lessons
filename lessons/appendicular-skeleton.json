@@ -47,8 +47,8 @@
             421.57598
           ],
           "t": "Carpals",
-          "dx": 22.3,
-          "dy": -10.9,
+          "dx": 62.5,
+          "dy": 2.2,
           "ln": [
             -0.39677,
             0.62747,
@@ -145,8 +145,8 @@
             622.21277
           ],
           "t": "Metacarpals",
-          "dx": 42.4,
-          "dy": 0.5,
+          "dx": 17,
+          "dy": 19.8,
           "ln": [
             0.34268,
             0.25116,
@@ -873,10 +873,40 @@
           ],
           "brushMm": 8,
           "attemptLimit": 0
+        },
+        {
+          "id": "act-mvzrtazg-q84zb5fp",
+          "type": "identify",
+          "title": "Locate the radius.",
+          "prompt": "Locate the radius and click on the corresponding bone.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 221,
+          "targetLabel": null,
+          "targetGroup": null
+        },
+        {
+          "id": "act-mvzru1ff-xtuiuhmm",
+          "type": "short",
+          "title": "What is the mnemonic the we learned in class to help you remember the radius? ",
+          "prompt": "Check your notes if you can't remember!",
+          "hint": "",
+          "feedback": "",
+          "maxPoints": 1
+        },
+        {
+          "id": "act-mvzsj89r-emeqfhww",
+          "type": "identify",
+          "title": "Locate the carpals.",
+          "prompt": "Identify one of the carpals.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 189,
+          "targetLabel": "q-c8030176-880a-4402-a383-40c18dc7dcb5",
+          "targetGroup": null
         }
       ],
       []
-    ],
-    "finalPractical": true
+    ]
   }
 }
