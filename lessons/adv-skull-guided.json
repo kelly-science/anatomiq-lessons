@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Skull",
-  "start": 0,
+  "start": 1,
   "chapters": [
     {
       "v": 1,
@@ -148,8 +148,8 @@
         {
           "id": "act-mvye9yks-oidnibqf",
           "type": "explore",
-          "title": "Explore the Skull",
-          "prompt": "Rotate the skull to the right to familiarize yourself with the skull model.",
+          "title": "Rotate the skull to explore.",
+          "prompt": "Rotate the skull to the right to familiarize yourself with the skull model and directions.",
           "hint": "",
           "feedback": "",
           "action": "rotate",
@@ -159,7 +159,7 @@
         {
           "id": "act-mvyehg7i-fc04rwzf",
           "type": "label",
-          "title": "Identify the sagittal suture.",
+          "title": "Skull sutures",
           "prompt": "Skull sutures are fibrous joints between the bones of the skull that allow expansion during brain growth and later fuse into solid bone. Locate the suture between the two parietal bones called the sagittal suture.",
           "hint": "",
           "feedback": "",
@@ -1027,7 +1027,7 @@
           "id": "act-mvyfsfty-frfs7kbb",
           "type": "label",
           "title": " Locate the external auditory meatus.",
-          "prompt": "Rotate the skull and find the left ear canal.",
+          "prompt": "The external auditory meatus is the opening of the tube known as the ear canal. Rotate the skull and find the left external auditory meatus.",
           "hint": "",
           "feedback": "",
           "rotationDegrees": 0,
@@ -2305,6 +2305,15 @@
           "targetStructure": 213,
           "targetLabel": null,
           "targetGroup": null
+        },
+        {
+          "id": "act-mvzew00n-py6o20co",
+          "type": "short",
+          "title": "Short answer",
+          "prompt": "Thus far in the lesson you've encountered bones like the maxilla, palatine, and parietal bones. These bones are considered paired bones, whereas the sphenoid and mandible are considered unpaired bones. What do you think is the definition of a paired bone?",
+          "hint": "",
+          "feedback": "",
+          "maxPoints": 1
         }
       ]
     ]
