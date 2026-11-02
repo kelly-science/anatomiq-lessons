@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Skull",
-  "start": 1,
+  "start": 0,
   "chapters": [
     {
       "v": 1,
@@ -149,7 +149,7 @@
           "id": "act-mvye9yks-oidnibqf",
           "type": "explore",
           "title": "Rotate the skull to explore.",
-          "prompt": "Rotate the skull to the right to familiarize yourself with the skull model and directions.",
+          "prompt": "Rotate the skull to the right to familiarize yourself with the skull model and directions. You need to rotate the model's face to your right, not the model's right. For these models, we are always using your reference frame!",
           "hint": "",
           "feedback": "",
           "action": "rotate",
