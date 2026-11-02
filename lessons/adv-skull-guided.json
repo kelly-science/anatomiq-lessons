@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Skull",
-  "start": 0,
+  "start": 1,
   "chapters": [
     {
       "v": 1,
@@ -1326,7 +1326,7 @@
           "id": "act-mvyh16yq-o18rxlp9",
           "type": "label",
           "title": "Find the internal auditory meatus.",
-          "prompt": "The internal auditory meatus is where the ear canal exits into the skull. Locate the right external auditory meatus.",
+          "prompt": "The internal auditory meatus is where the ear canal exits into the skull. Locate the right internal auditory meatus.",
           "hint": "",
           "feedback": "",
           "rotationDegrees": 0,
