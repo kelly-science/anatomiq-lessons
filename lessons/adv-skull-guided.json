@@ -1249,7 +1249,7 @@
         {
           "id": "act-mvyfcim0-aic35kq0",
           "type": "identify",
-          "title": "Identify the lacrimal.",
+          "title": "Identify the left lacrimal.",
           "prompt": "The lacrimal is the most fragile bone in the skull, and is part of the tear duct. Locate the left lacrimal.",
           "hint": "Remember, your left is different from the model's left!",
           "feedback": "",
@@ -1260,7 +1260,7 @@
         {
           "id": "act-mvygy7w6-kls4zxvt",
           "type": "identify",
-          "title": "Identify the palatine.",
+          "title": "Identify the right palatine.",
           "prompt": "The palatine bone makes up the hard palette of the mouth. Locate the right palatine bone.",
           "hint": "",
           "feedback": "",
@@ -1295,7 +1295,8 @@
             115,
             233,
             133,
-            251
+            251,
+            155
           ],
           "keepHiddenForNext": true
         },
@@ -2310,7 +2311,7 @@
           "id": "act-mvzew00n-py6o20co",
           "type": "short",
           "title": "Short answer",
-          "prompt": "Thus far in the lesson you've encountered bones like the maxilla, palatine, and parietal bones. These bones are considered paired bones, whereas the sphenoid and mandible are considered unpaired bones. What do you think is the definition of a paired bone?",
+          "prompt": "So far in the lesson you've encountered bones like the maxilla, palatine, and parietal bones. These bones are considered paired bones, whereas the sphenoid and mandible are considered unpaired bones. Come up with your own definition of a paired bone and write it below.",
           "hint": "",
           "feedback": "",
           "maxPoints": 1
