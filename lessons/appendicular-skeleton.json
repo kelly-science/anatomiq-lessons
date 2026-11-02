@@ -416,7 +416,7 @@
         {
           "id": "act-mvzrlz8w-xr1x270l",
           "type": "label",
-          "title": "Identify the anterior proximal end of the humerus..",
+          "title": "Identify the anterior proximal end of the humerus.",
           "prompt": "Rotate the model to find the anterior proximal end of the humerus, then click on the correct location using the red cursor.",
           "hint": "",
           "feedback": "",
@@ -1821,8 +1821,9 @@
           "prompt": "To complete this activity find the most distal bone of the fingers.",
           "hint": "",
           "feedback": "",
-          "targetStructure": 15,
-          "targetLabel": null
+          "targetStructure": 18,
+          "targetLabel": null,
+          "targetGroup": null
         }
       ],
       [
@@ -1845,6 +1846,17 @@
           "hint": "",
           "feedback": "",
           "maxPoints": 1
+        },
+        {
+          "id": "act-mvzvdzy2-72aeu4t9",
+          "type": "identify",
+          "title": "Find the patella.",
+          "prompt": "The patella is also known as the kneecap, which is a sesamoid bone found in the quadriceps tendon.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 219,
+          "targetLabel": null,
+          "targetGroup": null
         }
       ]
     ]
