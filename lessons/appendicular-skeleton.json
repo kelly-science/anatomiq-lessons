@@ -309,7 +309,7 @@
       "m": "systems",
       "n": 1480,
       "f": "ar5wml",
-      "b": "AGAyAAAAAAAAAAAAAAAAAAAAyQLAZMlEJAVACAShAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "b": "AGAyAAAAAAAAAAAAAAAAAAAAyQLAZMlEJAVACAShAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA",
       "t": "Lower Limb",
       "lm": "shown",
       "x": false,
@@ -324,7 +324,7 @@
       "nv": false,
       "ur": false,
       "ly": false,
-      "cn": false,
+      "cn": true,
       "cm": true,
       "ey": false,
       "ci": true,
@@ -432,8 +432,8 @@
         {
           "id": "act-mvzrlz8w-xr1x270l",
           "type": "label",
-          "title": "Identify the anterior proximal end of the humerus.",
-          "prompt": "Rotate the model to find the anterior proximal end of the humerus, then click on the correct location using the red cursor.",
+          "title": "Identify the anterior distal end of the humerus.",
+          "prompt": "Rotate the model to find the anterior distal end of the humerus, then click on the correct location using the red cursor.",
           "hint": "",
           "feedback": "",
           "rotationDegrees": 0,
@@ -2095,6 +2095,37 @@
           "feedback": "",
           "targetStructure": 219,
           "targetLabel": null,
+          "targetGroup": null
+        },
+        {
+          "id": "act-mw046sdy-ucu0c8rf",
+          "type": "identify",
+          "title": "Find the interosseous membrane.",
+          "prompt": "The interosseous membrane is a fibrous sheet of connective tissue between the tibia and fibula that holds the two bones together. Locate this membrane.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 1467,
+          "targetLabel": null,
+          "targetStructures": [
+            1467
+          ],
+          "attemptLimit": 3,
+          "targetGroup": null
+        },
+        {
+          "id": "act-mw071ev3-st4ljge3",
+          "type": "identify",
+          "title": "Balance and the phalanges",
+          "prompt": "The distal and proximal phalanx of the big toe.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 13,
+          "targetLabel": null,
+          "targetStructures": [
+            13,
+            166
+          ],
+          "attemptLimit": 3,
           "targetGroup": null
         }
       ]
