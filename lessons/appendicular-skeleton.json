@@ -2139,12 +2139,13 @@
           "prompt": "A basketball player lands awkwardly after going up for a rebound and immediately feels sharp pain in the back of their foot. The athletic trainer notices they can't put weight down when taking a step, especially during the initial ground-impact phase of walking.\n\nAn X-ray confirms a stress fracture in the calcaneus.",
           "hint": "",
           "feedback": "",
-          "targetStructure": 13,
+          "targetStructure": 176,
           "targetLabel": null,
           "targetStructures": [
-            13
+            176
           ],
-          "attemptLimit": 3
+          "attemptLimit": 3,
+          "targetGroup": null
         }
       ]
     ]
