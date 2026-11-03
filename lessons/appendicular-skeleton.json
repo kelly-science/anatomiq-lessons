@@ -2093,8 +2093,8 @@
         {
           "id": "act-mvzvdzy2-72aeu4t9",
           "type": "identify",
-          "title": "Find the patella.",
-          "prompt": "The patella is also known as the kneecap, which is a sesamoid bone found in the quadriceps tendon.",
+          "title": "Patella dislocation.",
+          "prompt": "A soccer player makes a sharp turn on the field and feels a sudden \"pop\" in the front of their knee. They fall to the turf, unable to bear weight or straighten their leg, and notice a visible displacement on the side of their knee joint. At the clinic, the doctor diagnoses a dislocated patella.",
           "hint": "",
           "feedback": "",
           "targetStructure": 219,
