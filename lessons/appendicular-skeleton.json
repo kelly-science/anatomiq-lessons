@@ -2115,9 +2115,9 @@
         {
           "id": "act-mw071ev3-st4ljge3",
           "type": "identify",
-          "title": "Balance and the phalanges",
-          "prompt": "The distal and proximal phalanx of the big toe.",
-          "hint": "",
+          "title": "Balance and the phalanges.",
+          "prompt": "A track athlete visits the clinic complaining of foot pain after a fall. They are having a hard time keeping their balance while standing still and struggle to push off the ground when sprinting.\n\nAn X-ray reveals an injury to a specific toe that is made up of only two bones: a proximal phalanx and a distal phalanx. Locate these two bones in the foot.",
+          "hint": "Unlike the other four toes that each have three bones, this toe only has two! It plays a huge role in keeping you upright, and losing it severely impacts your balance when you walk or run.",
           "feedback": "",
           "targetStructure": 13,
           "targetLabel": null,
@@ -2127,6 +2127,20 @@
           ],
           "attemptLimit": 3,
           "targetGroup": null
+        },
+        {
+          "id": "act-mw0tlaaq-5z1jtjnw",
+          "type": "identify",
+          "title": "A basketball player sustains an injury.",
+          "prompt": "A basketball player lands awkwardly after going up for a rebound and immediately feels sharp pain in the back of their foot. The athletic trainer notices they can't put weight down when taking a step, especially during the initial ground-impact phase of walking.\n\nAn X-ray confirms a stress fracture in the calcaneus.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 13,
+          "targetLabel": null,
+          "targetStructures": [
+            13
+          ],
+          "attemptLimit": 3
         }
       ]
     ]
