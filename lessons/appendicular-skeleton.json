@@ -552,7 +552,7 @@
             }
           ],
           "brushMm": 20,
-          "attemptLimit": 0
+          "attemptLimit": 4
         },
         {
           "id": "act-mvzrtazg-q84zb5fp",
@@ -1481,7 +1481,7 @@
             }
           ],
           "brushMm": 8,
-          "attemptLimit": 0
+          "attemptLimit": 4
         },
         {
           "id": "act-mvzu9sbb-o8gilecm",
