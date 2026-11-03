@@ -1848,11 +1848,15 @@
           "type": "identify",
           "title": "Identify the misplaced bone.",
           "prompt": "This lesson involves bones of the appendicular skeleton (arms and legs). Identify the bone that does not belong to this skeleton, but rather belongs to the axial skeleton.",
-          "hint": "",
+          "hint": "Look at your notes on the axial versus appendicular skeleton!",
           "feedback": "",
           "targetStructure": 197,
           "targetLabel": null,
-          "targetGroup": null
+          "targetGroup": null,
+          "targetStructures": [
+            197
+          ],
+          "attemptLimit": 3
         },
         {
           "id": "act-mvzunon9-xcaof9hp",
