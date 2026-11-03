@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "Appendicular Skeleton",
-  "start": 0,
+  "start": 1,
   "chapters": [
     {
       "v": 1,
@@ -409,10 +409,9 @@
           "prompt": "Based on the notes, click on the bones that make up the shoulder girdle. ",
           "hint": "",
           "feedback": "",
-          "targetStructure": 15,
+          "targetStructure": 223,
           "targetLabel": null,
           "targetStructures": [
-            15,
             223,
             178
           ],
