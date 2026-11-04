@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "REG Skull",
-  "start": 5,
+  "start": 6,
   "chapters": [
     {
       "v": 1,
@@ -1412,7 +1412,8 @@
             266
           ],
           "attemptLimit": 4,
-          "targetGroup": null
+          "targetGroup": null,
+          "persistentIdentifyHighlights": true
         }
       ],
       [
@@ -1435,7 +1436,8 @@
             155
           ],
           "attemptLimit": 4,
-          "targetGroup": null
+          "targetGroup": null,
+          "persistentIdentifyHighlights": true
         }
       ],
       [
@@ -1456,7 +1458,8 @@
             134
           ],
           "attemptLimit": 4,
-          "targetGroup": null
+          "targetGroup": null,
+          "persistentIdentifyHighlights": true
         }
       ],
       [
@@ -1482,7 +1485,8 @@
             90
           ],
           "attemptLimit": 8,
-          "targetGroup": null
+          "targetGroup": null,
+          "persistentIdentifyHighlights": true
         }
       ],
       [
@@ -1502,7 +1506,8 @@
             134
           ],
           "attemptLimit": 4,
-          "targetGroup": null
+          "targetGroup": null,
+          "persistentIdentifyHighlights": true
         }
       ]
     ]
