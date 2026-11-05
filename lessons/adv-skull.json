@@ -514,8 +514,29 @@
     "markerStyle": "question-label",
     "chapterRules": [
       {
-        "source": "structures",
-        "keys": []
+        "source": "custom",
+        "keys": [
+          "s:25",
+          "s:35",
+          "s:83",
+          "s:201",
+          "s:95",
+          "s:213",
+          "s:97",
+          "s:215",
+          "s:99",
+          "s:217",
+          "s:100",
+          "s:218",
+          "s:115",
+          "s:233",
+          "s:133",
+          "s:251",
+          "s:134",
+          "s:155",
+          "s:260",
+          "s:266"
+        ]
       },
       {
         "source": "labels",
