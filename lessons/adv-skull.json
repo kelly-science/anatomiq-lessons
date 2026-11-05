@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Skull",
-  "start": 2,
+  "start": 1,
   "chapters": [
     {
       "v": 1,
@@ -511,7 +511,21 @@
       "s:266"
     ],
     "chapters": null,
-    "markerStyle": "question-label"
+    "markerStyle": "question-label",
+    "chapterRules": [
+      {
+        "source": "structures",
+        "keys": []
+      },
+      {
+        "source": "labels",
+        "keys": []
+      },
+      {
+        "source": "labels",
+        "keys": []
+      }
+    ]
   },
   "guided": {
     "free": true,
