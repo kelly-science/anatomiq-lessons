@@ -1,7 +1,7 @@
 {
   "v": 2,
   "t": "ADV Vertebra, Ribs, and Pelvis",
-  "start": 5,
+  "start": 0,
   "chapters": [
     {
       "v": 1,
@@ -1181,13 +1181,38 @@
       "s:265"
     ],
     "chapters": [
+      0,
       1,
       2,
-      3,
-      4,
       5
     ],
-    "markerStyle": "question-label"
+    "markerStyle": "question-label",
+    "chapterRules": [
+      {
+        "source": "labels",
+        "keys": []
+      },
+      {
+        "source": "auto",
+        "keys": []
+      },
+      {
+        "source": "labels",
+        "keys": []
+      },
+      {
+        "source": "auto",
+        "keys": []
+      },
+      {
+        "source": "auto",
+        "keys": []
+      },
+      {
+        "source": "auto",
+        "keys": []
+      }
+    ]
   },
   "guided": {
     "free": false,
