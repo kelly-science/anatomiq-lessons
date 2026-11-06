@@ -1151,7 +1151,12 @@
     "sl": true,
     "ll": true,
     "ex": true,
-    "ot": false
+    "ot": false,
+    "ht": false,
+    "hm": false,
+    "hh": false,
+    "sc": true,
+    "bg": "classic"
   },
   "practical": {
     "on": true,
@@ -1189,8 +1194,17 @@
     "markerStyle": "question-label",
     "chapterRules": [
       {
-        "source": "labels",
-        "keys": []
+        "source": "custom",
+        "keys": [
+          "l:q-34dc239d-2a02-49e2-909a-9356dcaee815",
+          "l:q-4c6788fa-2c05-47e4-a365-50601c7a0264",
+          "l:q-ffe505c9-af99-4b5f-a6bd-6a9b8e61649e",
+          "l:q-6c4f9a8c-9edc-468a-9ace-45e43a8c8362",
+          "l:q-572861e9-dd72-480f-8104-126f99994d28",
+          "s:2",
+          "s:135",
+          "s:267"
+        ]
       },
       {
         "source": "auto",
