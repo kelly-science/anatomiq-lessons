@@ -1058,6 +1058,7 @@
     "studentChoice": false,
     "allowRetakes": true,
     "tracking": "google",
+    "practicalOnly": true,
     "markerStyle": "question-label",
     "chapterRules": [
       {
