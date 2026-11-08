@@ -1005,8 +1005,8 @@
     "ex": true,
     "ot": false,
     "ht": false,
-    "hm": false,
-    "hh": false,
+    "hm": true,
+    "hh": true,
     "sc": true,
     "bg": "classic"
   },
@@ -1056,7 +1056,7 @@
       4
     ],
     "studentChoice": false,
-    "allowRetakes": true,
+    "allowRetakes": false,
     "tracking": "google",
     "practicalOnly": true,
     "markerStyle": "question-label",
