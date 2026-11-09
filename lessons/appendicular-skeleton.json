@@ -409,7 +409,7 @@
     ]
   },
   "guided": {
-    "free": false,
+    "free": true,
     "chapters": [
       [
         {
