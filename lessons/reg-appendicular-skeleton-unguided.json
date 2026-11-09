@@ -399,12 +399,29 @@
     "markerStyle": "question-label",
     "chapterRules": [
       {
-        "source": "auto",
-        "keys": []
+        "source": "custom",
+        "keys": [
+          "l:q-43ef531e-c0e6-4c17-8e7a-4b2a8d54ff9f",
+          "l:q-c8030176-880a-4402-a383-40c18dc7dcb5",
+          "l:q-a66cfee9-60af-4e21-9928-6f401fb92b48",
+          "s:178",
+          "s:198",
+          "s:221",
+          "s:223",
+          "s:243"
+        ]
       },
       {
-        "source": "auto",
-        "keys": []
+        "source": "custom",
+        "keys": [
+          "s:182",
+          "s:183",
+          "s:197",
+          "s:219",
+          "s:232",
+          "s:239",
+          "s:1467"
+        ]
       }
     ]
   },
