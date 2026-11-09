@@ -348,7 +348,12 @@
     "sl": true,
     "ll": true,
     "ex": true,
-    "ot": false
+    "ot": false,
+    "ht": false,
+    "hm": false,
+    "hh": false,
+    "sc": true,
+    "bg": "classic"
   },
   "practical": {
     "on": true,
@@ -385,7 +390,23 @@
     "chapters": [
       0
     ],
-    "markerStyle": "question-label"
+    "graded": false,
+    "assessmentChapters": null,
+    "studentChoice": false,
+    "allowRetakes": false,
+    "tracking": "local",
+    "practicalOnly": false,
+    "markerStyle": "question-label",
+    "chapterRules": [
+      {
+        "source": "auto",
+        "keys": []
+      },
+      {
+        "source": "auto",
+        "keys": []
+      }
+    ]
   },
   "guided": {
     "free": false,
