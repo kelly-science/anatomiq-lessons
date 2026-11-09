@@ -1,0 +1,723 @@
+{
+  "v": 2,
+  "t": "REG Appendicular Skeleton",
+  "start": 0,
+  "chapters": [
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "AIBNAAAAAAAAAAAAAAAAAAAANgAAmwYiUgAI8AIQCwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "t": "Upper Limb",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": false,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        -0.12707,
+        0.99548,
+        1.64732,
+        -0.12707,
+        0.99548,
+        0.01587
+      ],
+      "labels": [
+        {
+          "s": 222,
+          "qi": "q-43ef531e-c0e6-4c17-8e7a-4b2a8d54ff9f",
+          "p": [
+            -2634.77434,
+            8869.69722,
+            421.57598
+          ],
+          "t": "Carpals",
+          "dx": 62.5,
+          "dy": 2.2,
+          "ln": [
+            -0.39677,
+            0.62747,
+            0.66997
+          ],
+          "g": [
+            {
+              "s": 211,
+              "p": [
+                -2443.69212,
+                8851.76885,
+                458.87643
+              ],
+              "ln": [
+                0.24451,
+                0.56289,
+                0.78954
+              ]
+            },
+            {
+              "s": 177,
+              "p": [
+                -2552.70729,
+                8748.90245,
+                459.05287
+              ],
+              "ln": [
+                0.30984,
+                0.53673,
+                0.78481
+              ]
+            },
+            {
+              "s": 196,
+              "p": [
+                -2471.49785,
+                8716.77124,
+                449.64039
+              ],
+              "ln": [
+                -0.29838,
+                0.16565,
+                0.93996
+              ]
+            },
+            {
+              "s": 220,
+              "p": [
+                -2372.06642,
+                8738.51159,
+                582.99497
+              ],
+              "ln": [
+                0.03013,
+                0.09127,
+                0.99537
+              ]
+            },
+            {
+              "s": 241,
+              "p": [
+                -2668.63651,
+                8711.28426,
+                488.99052
+              ],
+              "ln": [
+                -0.14243,
+                0.65108,
+                0.74553
+              ]
+            },
+            {
+              "s": 240,
+              "p": [
+                -2712.98431,
+                8798.29143,
+                533.76382
+              ],
+              "ln": [
+                -0.60672,
+                0.41085,
+                0.68051
+              ]
+            }
+          ],
+          "gn": 1
+        },
+        {
+          "s": 189,
+          "qi": "q-c8030176-880a-4402-a383-40c18dc7dcb5",
+          "p": [
+            -2941.6911,
+            8603.51131,
+            622.21277
+          ],
+          "t": "Metacarpals",
+          "dx": 4.8,
+          "dy": 61.8,
+          "ln": [
+            0.34268,
+            0.25116,
+            0.90525
+          ],
+          "g": [
+            {
+              "s": 225,
+              "p": [
+                -2774.86238,
+                8302.74197,
+                513.50304
+              ],
+              "ln": [
+                0.13325,
+                0.13841,
+                0.98137
+              ]
+            },
+            {
+              "s": 236,
+              "p": [
+                -2649.3609,
+                8281.52212,
+                498.04499
+              ],
+              "ln": [
+                -0.66816,
+                0.36703,
+                0.64719
+              ]
+            },
+            {
+              "s": 193,
+              "p": [
+                -2490.81042,
+                8273.51767,
+                512.05483
+              ],
+              "ln": [
+                -0.36614,
+                0.3589,
+                0.85856
+              ]
+            },
+            {
+              "s": 185,
+              "p": [
+                -2330.11106,
+                8313.42108,
+                553.75304
+              ],
+              "ln": [
+                0.3153,
+                0.41935,
+                0.85131
+              ]
+            }
+          ],
+          "gn": 2,
+          "fv": [
+            0.14133,
+            0.60786,
+            0.78137
+          ],
+          "fd": 0.1942,
+          "ft": [
+            0.04348,
+            -0.00325,
+            -0.06667
+          ]
+        },
+        {
+          "s": 169,
+          "qi": "q-a66cfee9-60af-4e21-9928-6f401fb92b48",
+          "p": [
+            -2255.48148,
+            7925.63513,
+            727.10133
+          ],
+          "t": "Phalanges",
+          "dx": -116,
+          "dy": 25.9,
+          "ln": [
+            -0.12833,
+            0.33629,
+            0.93297
+          ],
+          "g": [
+            {
+              "s": 172,
+              "p": [
+                -2473.5183,
+                7869.8311,
+                703.87727
+              ],
+              "ln": [
+                0.07452,
+                0.5142,
+                0.85442
+              ]
+            },
+            {
+              "s": 171,
+              "p": [
+                -2687.56831,
+                7836.21089,
+                706.35994
+              ],
+              "ln": [
+                -0.06863,
+                0.4222,
+                0.9039
+              ]
+            },
+            {
+              "s": 168,
+              "p": [
+                -2884.22733,
+                7833.75312,
+                662.79139
+              ],
+              "ln": [
+                0.37645,
+                0.22834,
+                0.89786
+              ]
+            },
+            {
+              "s": 175,
+              "p": [
+                -3091.68626,
+                8262.77499,
+                764.46195
+              ],
+              "ln": [
+                0.69911,
+                0.0143,
+                0.71487
+              ]
+            }
+          ],
+          "gn": 3,
+          "fv": [
+            -0.18626,
+            0.8145,
+            0.54945
+          ],
+          "fd": 0.21107,
+          "ft": [
+            -0.02513,
+            0.06464,
+            -0.07721
+          ]
+        }
+      ]
+    },
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "AGAyAAAAAAAAAAAAAAAAAAAAyQLAZMlEJAVACAShAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA",
+      "t": "Lower Limb",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": false,
+      "sm": false,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": true,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        0.34668,
+        0.55342,
+        2.08957,
+        -0.04516,
+        0.40026,
+        0.02037
+      ],
+      "labels": []
+    }
+  ],
+  "sp": {
+    "ss": false,
+    "st": false,
+    "sn": true,
+    "sl": true,
+    "ll": true,
+    "ex": true,
+    "ot": false,
+    "ht": false,
+    "hm": false,
+    "hh": false,
+    "sc": true,
+    "bg": "classic"
+  },
+  "practical": {
+    "on": true,
+    "count": 15,
+    "off": [
+      "s:15",
+      "s:16",
+      "s:18",
+      "s:19",
+      "s:22",
+      "s:145",
+      "s:146",
+      "s:148",
+      "s:149",
+      "s:168",
+      "s:169",
+      "s:171",
+      "s:172",
+      "s:175",
+      "s:241",
+      "s:240",
+      "s:236",
+      "s:225",
+      "s:222",
+      "s:221",
+      "s:220",
+      "s:211",
+      "s:196",
+      "s:193",
+      "s:189",
+      "s:185",
+      "s:177"
+    ],
+    "chapters": [
+      0
+    ],
+    "graded": false,
+    "assessmentChapters": null,
+    "studentChoice": false,
+    "allowRetakes": false,
+    "tracking": "local",
+    "practicalOnly": false,
+    "markerStyle": "question-label",
+    "chapterRules": [
+      {
+        "source": "auto",
+        "keys": []
+      },
+      {
+        "source": "auto",
+        "keys": []
+      }
+    ]
+  },
+  "guided": {
+    "free": true,
+    "chapters": [
+      [],
+      [
+        {
+          "id": "act-mvzug5q9-p8q38r6e",
+          "type": "identify",
+          "title": "Identify the misplaced bone.",
+          "prompt": "This lesson involves bones of the appendicular skeleton (arms and legs). Identify the bone that does not belong to this skeleton, but rather belongs to the axial skeleton.",
+          "hint": "Look at your notes on the axial versus appendicular skeleton!",
+          "feedback": "",
+          "targetStructure": 197,
+          "targetLabel": null,
+          "targetGroup": null,
+          "targetStructures": [
+            197
+          ],
+          "attemptLimit": 3
+        },
+        {
+          "id": "act-mvzunon9-xcaof9hp",
+          "type": "short",
+          "title": "Unique femur features.",
+          "prompt": "Using your notes on the femur, please describe one unique feature of the femur.",
+          "hint": "",
+          "feedback": "",
+          "maxPoints": 1
+        },
+        {
+          "id": "act-mvzvimth-l2nydp5l",
+          "type": "label",
+          "title": "Hip Replacement",
+          "prompt": "Hip replacement is a common disorder involving the femur, where the proximal epiphysis of the femur is removed and replaced with a plastic or metal head. Locate the proximal epiphysis of the femur. CAUTION - you only have three attempts at this identification before the chapter resets!",
+          "hint": "",
+          "feedback": "",
+          "rotationDegrees": 0,
+          "paintRegions": [
+            {
+              "s": 182,
+              "p": [
+                -875.861015,
+                8812.447418,
+                207.971064
+              ],
+              "r": 19,
+              "n": [
+                -0.12736855186858498,
+                -0.2596975391439793,
+                0.9572535923972605
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -904.500118,
+                8879.487448,
+                217.495788
+              ],
+              "r": 19,
+              "n": [
+                -0.18090721707976906,
+                -0.1425008558748645,
+                0.9731218242765827
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -951.643093,
+                8931.591505,
+                202.619207
+              ],
+              "r": 19,
+              "n": [
+                -0.31254513963037134,
+                0.03749003743803393,
+                0.9491628062594565
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1003.467217,
+                8967.846481,
+                165.642007
+              ],
+              "r": 19,
+              "n": [
+                -0.5807089816289057,
+                0.3549101910982393,
+                0.7326771696389417
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1045.953738,
+                8981.818023,
+                110.768052
+              ],
+              "r": 19,
+              "n": [
+                -0.8087322816978848,
+                0.3696470227054781,
+                0.45750756840156104
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1073.710648,
+                8987.493824,
+                43.603643
+              ],
+              "r": 19,
+              "n": [
+                -0.9321651454530593,
+                0.28809992039231963,
+                0.219240911949426
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1062.059409,
+                8973.781288,
+                -25.993127
+              ],
+              "r": 19,
+              "n": [
+                -0.9393212750665135,
+                -0.1284466135434576,
+                -0.3180833376281078
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1060.066988,
+                9022.351937,
+                24.835458
+              ],
+              "r": 19,
+              "n": [
+                -0.7452654597145209,
+                0.6438658795536449,
+                0.17325161962623853
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1018.512888,
+                9044.606096,
+                77.397908
+              ],
+              "r": 19,
+              "n": [
+                -0.604242324037204,
+                0.7138457719567701,
+                0.35399919166794924
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -981.017525,
+                9035.375429,
+                135.531332
+              ],
+              "r": 19,
+              "n": [
+                -0.48302662850035316,
+                0.634874118906017,
+                0.6030092282070735
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -963.020484,
+                8986.136383,
+                182.700981
+              ],
+              "r": 19,
+              "n": [
+                -0.322874412181946,
+                0.42281929619685993,
+                0.8467443278355958
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1018.911913,
+                8850.818758,
+                -172.211198
+              ],
+              "r": 19,
+              "n": [
+                -0.6581596862489141,
+                -0.22314009793305667,
+                -0.7190509885196993
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1023.244778,
+                8923.114698,
+                -174.30698
+              ],
+              "r": 19,
+              "n": [
+                -0.6662092804465788,
+                0.08477174173970652,
+                -0.7409311347549569
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -1033.592939,
+                8980.95982,
+                -132.675011
+              ],
+              "r": 19,
+              "n": [
+                -0.8524210366999327,
+                0.29317210999380705,
+                -0.4329301215129195
+              ]
+            },
+            {
+              "s": 182,
+              "p": [
+                -748.502017,
+                8735.076325,
+                100.957574
+              ],
+              "r": 19,
+              "n": [
+                0.6034768317736474,
+                -0.6591084876737869,
+                0.44876688267831705
+              ]
+            }
+          ],
+          "brushMm": 19,
+          "attemptLimit": 3
+        },
+        {
+          "id": "act-mvzvdzy2-72aeu4t9",
+          "type": "identify",
+          "title": "Patella dislocation.",
+          "prompt": "A soccer player makes a sharp turn on the field and feels a sudden \"pop\" in the front of their knee. They fall to the turf, unable to bear weight or straighten their leg, and notice a visible displacement on the side of their knee joint. At the clinic, the doctor diagnoses a dislocated patella.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 219,
+          "targetLabel": null,
+          "targetGroup": null
+        },
+        {
+          "id": "act-mw046sdy-ucu0c8rf",
+          "type": "identify",
+          "title": "Find the interosseous membrane.",
+          "prompt": "The interosseous membrane is a fibrous sheet of connective tissue between the tibia and fibula that holds the two bones together. Locate this membrane.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 1467,
+          "targetLabel": null,
+          "targetStructures": [
+            1467
+          ],
+          "attemptLimit": 3,
+          "targetGroup": null
+        },
+        {
+          "id": "act-mw071ev3-st4ljge3",
+          "type": "identify",
+          "title": "Balance and the phalanges.",
+          "prompt": "A track athlete visits the clinic complaining of foot pain after a fall. They are having a hard time keeping their balance while standing still and struggle to push off the ground when sprinting.\n\nAn X-ray reveals an injury to a specific toe that is made up of only two bones: a proximal phalanx and a distal phalanx. Locate these two bones in the foot.",
+          "hint": "Unlike the other four toes that each have three bones, this toe only has two! It plays a huge role in keeping you upright, and losing it severely impacts your balance when you walk or run.",
+          "feedback": "",
+          "targetStructure": 13,
+          "targetLabel": null,
+          "targetStructures": [
+            13,
+            166
+          ],
+          "attemptLimit": 3,
+          "targetGroup": null
+        },
+        {
+          "id": "act-mw0tlaaq-5z1jtjnw",
+          "type": "identify",
+          "title": "A basketball player sustains an injury.",
+          "prompt": "A basketball player lands awkwardly after going up for a rebound and immediately feels sharp pain in the back of their foot. The athletic trainer notices they can't put weight down when taking a step, especially during the initial ground-impact phase of walking.\n\nAn X-ray confirms a stress fracture in the calcaneus.",
+          "hint": "",
+          "feedback": "",
+          "targetStructure": 176,
+          "targetLabel": null,
+          "targetStructures": [
+            176
+          ],
+          "attemptLimit": 3,
+          "targetGroup": null
+        }
+      ]
+    ]
+  }
+}
