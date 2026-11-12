@@ -3050,7 +3050,7 @@
     "studentChoice": false,
     "allowRetakes": true,
     "tracking": "google",
-    "practicalOnly": false,
+    "practicalOnly": true,
     "markerStyle": "question-label",
     "chapterRules": [
       {
