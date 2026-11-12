@@ -1,0 +1,190 @@
+{
+  "v": 2,
+  "t": "ADV Muscular System",
+  "start": 0,
+  "chapters": [
+    {
+      "v": 1,
+      "m": "systems",
+      "n": 1480,
+      "f": "ar5wml",
+      "b": "____-w8AAPy7-92__7ve___________ufvfv_673_3__P_wPAJQEWAETEBAAKEBgBQAHIBCyAGtJAIAVMAEBAYACBFYAcAACIQswAPUAKwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMA",
+      "t": "Muscle Set 1",
+      "lm": "shown",
+      "x": false,
+      "te": true,
+      "ca": true,
+      "sb": true,
+      "dm": true,
+      "sm": true,
+      "dg": false,
+      "cv": false,
+      "rs": false,
+      "nv": false,
+      "ur": false,
+      "ly": false,
+      "cn": false,
+      "cm": true,
+      "ey": false,
+      "ci": true,
+      "ro": 1,
+      "hd": false,
+      "cam": [
+        -0.11208,
+        1.26651,
+        1.28705,
+        0.01933,
+        1.23739,
+        0.05708
+      ],
+      "labels": [
+        {
+          "s": 382,
+          "qi": "q-35b1beb0-a637-4b58-a387-2eb91a4cd7d8",
+          "p": [
+            311.5,
+            15953.5,
+            878.5
+          ],
+          "t": "Left Orbicularis oculi",
+          "dx": 24,
+          "dy": -31,
+          "g": [
+            {
+              "s": 384,
+              "p": [
+                296.5,
+                15944,
+                890
+              ]
+            }
+          ],
+          "gn": 1,
+          "mg": "orbicularis-oculi-left"
+        },
+        {
+          "s": 538,
+          "qi": "q-8b6a91be-d23f-4e75-b8e3-d3d7f6861a48",
+          "p": [
+            -311.5,
+            15953.5,
+            878.5
+          ],
+          "t": "Right Orbicularis oculi",
+          "dx": 24,
+          "dy": -31,
+          "g": [
+            {
+              "s": 540,
+              "p": [
+                -296.5,
+                15944,
+                890
+              ]
+            }
+          ],
+          "gn": 2,
+          "mg": "orbicularis-oculi-right"
+        },
+        {
+          "s": 276,
+          "qi": "q-8e9bffd7-490d-4c20-82d0-84eea70341ae",
+          "p": [
+            748,
+            12756,
+            -682.5
+          ],
+          "t": "Left Trapezius",
+          "dx": 24,
+          "dy": -31,
+          "g": [
+            {
+              "s": 282,
+              "p": [
+                654.5,
+                15011,
+                -254.5
+              ]
+            },
+            {
+              "s": 624,
+              "p": [
+                818.5,
+                14209.5,
+                -501
+              ]
+            }
+          ],
+          "gn": 3,
+          "mg": "trapezius-left"
+        },
+        {
+          "s": 277,
+          "qi": "q-c16b87fd-f52e-4a5e-843d-af93b7817bb1",
+          "p": [
+            -748,
+            12756,
+            -682.5
+          ],
+          "t": "Right Trapezius",
+          "dx": 24,
+          "dy": -31,
+          "g": [
+            {
+              "s": 283,
+              "p": [
+                -654.5,
+                15011,
+                -254.5
+              ]
+            },
+            {
+              "s": 625,
+              "p": [
+                -818.5,
+                14209.5,
+                -501
+              ]
+            }
+          ],
+          "gn": 4,
+          "mg": "trapezius-right"
+        }
+      ]
+    }
+  ],
+  "sp": {
+    "ss": true,
+    "st": true,
+    "sn": true,
+    "sl": true,
+    "ll": true,
+    "ex": true,
+    "ot": true,
+    "ht": false,
+    "hm": false,
+    "hh": false,
+    "sc": true,
+    "bg": "classic"
+  },
+  "practical": {
+    "on": false,
+    "count": 15,
+    "off": [],
+    "chapters": null,
+    "graded": false,
+    "assessmentChapters": null,
+    "studentChoice": false,
+    "allowRetakes": false,
+    "tracking": "local",
+    "practicalOnly": false,
+    "markerStyle": "question-label",
+    "chapterRules": null
+  },
+  "guided": {
+    "free": false,
+    "chapters": [
+      []
+    ]
+  }
+}
